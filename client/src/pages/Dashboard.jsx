@@ -1,13 +1,13 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
 import { toast } from "sonner";
-import PropertyCard from "../components/PropertyCard";
+import PropertyCard from "@/components/PropertyCard";
 import {
     getAvailableProperties,
     getSavedProperties,
     addToFavourites,
     removeFromFavourites
-} from "../api/propertyService";
+} from "@/api/propertyService";
 
 const Dashboard = () => {
     const storedUser = localStorage.getItem("user");

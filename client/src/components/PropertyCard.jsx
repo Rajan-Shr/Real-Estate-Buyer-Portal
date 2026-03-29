@@ -1,5 +1,3 @@
-import React from "react";
-
 const PropertyCard = ({ property, onAction, isSaved }) => {
     return (
         <div className="bg-white rounded-xl border border-slate-100 shadow-sm hover:shadow-md transition-all duration-300 overflow-hidden flex flex-col cursor-pointer">
