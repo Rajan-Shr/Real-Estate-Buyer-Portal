@@ -5,14 +5,14 @@ A small full-stack app for real-estate buyers: **register / login** with email a
 ## 📸 Screenshots
 
 ### 🔐 Login Page
-![Login](./screenshot/Login.png)
+![Login](./screenshots/Login.png)
 
 ### 📝 Register Page
-![Register](./screenshot/Register.png)
+![Register](./screenshots/Register.png)
 
 ### 🏠 Dashboard
-![Dashboard](./screenshot/Dashboard.png)
-![Dashboard](./screenshot/Dashboard2.png)
+![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashboard2.png)
 
 ## Prerequisites
 
