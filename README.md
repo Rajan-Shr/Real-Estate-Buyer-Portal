@@ -11,7 +11,7 @@ A small full-stack app for real-estate buyers: **register / login** with email a
 ![Register](./screenshots/Register.png)
 
 ### 🏠 Dashboard
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./screenshots/Dashboard1.png)
 ![Dashboard](./screenshots/Dashboard2.png)
 
 ## Prerequisites
