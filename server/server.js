@@ -32,12 +32,6 @@ try {
   app.use(protect);
   app.use("/api/property", propertyRoutes);
 
-  app.get('/health-check', (req, res) => {
-    res.json({
-      message: "Hello world"
-    })
-  })
-
   app.listen(port, () => {
     console.log(`TechKraft Buyer Portal app listening on http://localhost:${port}`)
   });
